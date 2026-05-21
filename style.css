@@ -1,1 +1,41 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+  background-color: #001126;
+}
+
+.container {
+  height: 100vh;
+
+  padding: 50px;
+
+  background-color: lightgrey;
+}
+
+.box {
+  width: 100%;
+
+  font-size: 24px;
+}
+
+.yellow {
+  height: 25%;
+
+  background-color: orange;
+}
+
+.khaki {
+  height: 25%;
+
+  background-color: khaki;
+}
+
+.blue {
+  height: 50%;
+
+  background-color: cornflowerblue;
+}
